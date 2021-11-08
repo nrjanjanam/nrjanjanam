@@ -5,7 +5,7 @@
 🌱 I’m currently reading and learning new trends in AI everyday!
 <br>
 <!--💞️ I’m looking to collaborate on any -->
-📫 You can reach me on [Linkedin](https://www.linkedin.com/in/neeha-rathna-janjanam/) and email @ samy1541998@gmail.com.
+📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/neeha-rathna-janjanam/) and email @ samy1541998@gmail.com.
 <br>
 
 <!---
