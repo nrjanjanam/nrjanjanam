@@ -1,11 +1,11 @@
 👋 Hi, I’m **Neeha Rathna Janjanam.** You can call me Neeha! 
 <br><br>
-👀 I’m passionate about **research and developing apps in deep learning and machine learning**. I am also interested in sharing my experiences in form of blog articles.
+👀 I’m passionate about **research and developing apps in deep learning and machine learning**. I am also interested in sharing my experiences in form of blog articles. You can check them on [OpenGenus](https://iq.opengenus.org/author/neehoney/)
 <br><br>
 🌱 I’m currently reading and learning new trends in AI everyday!
 <br>
 <!--💞️ I’m looking to collaborate on any -->
-📫 How to reach me on [Linkedin](https://www.linkedin.com/in/neeha-rathna-janjanam/) and email @ samy1541998@gmail.com.
+📫 You can reach me on [Linkedin](https://www.linkedin.com/in/neeha-rathna-janjanam/) and email @ samy1541998@gmail.com.
 <br>
 
 <!---
